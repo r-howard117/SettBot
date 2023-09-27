@@ -1,5 +1,5 @@
 /**
- * Sends a gif of Sett doing pushups as a message
+ * Sends a gif of Sett doing situps as a message
  */
 module.exports =  {
     name: "flex",
